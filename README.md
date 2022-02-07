@@ -51,7 +51,7 @@ In this assignment, I was supposed to modify an existing HTML page that uses inl
 In completing this assignment, I was able to:
 
 Gain experience reading, understanding, and working with existing HTML
-Apply what you have learned about CSS classes and styling
+Apply what you have learned about CSS classes and styling to project and assignement
 
 # Homework 2: JavaScript
 In this assignment, I was supposed to implement some simple JavaScript functions.
