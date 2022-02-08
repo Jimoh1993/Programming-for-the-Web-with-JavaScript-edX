@@ -110,4 +110,4 @@ Apply what you have learned about developing a Node Express app and using variou
 Implement JavaScript queries using Mongoose to retrieve data from a MongoDB database
 Create a server-side Web application that reads data from an incoming HTTP request and sends back JSON data in an HTTP response
 
-# I completed the course with a 99%/100% score.
+# I completed the course with a 99%/100% performance.
